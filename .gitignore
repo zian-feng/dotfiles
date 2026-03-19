@@ -1,0 +1,12 @@
+# sensitives
+.env
+*.env
+*.key
+*.pem
+*.crt
+*.local
+.ssh/
+.vscode/
+
+.DS_Store
+
