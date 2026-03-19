@@ -1,0 +1,299 @@
+{
+  "actions" : [
+    {
+      "direction" : "BottomLeftQuarter",
+      "keybind" : [
+        123,
+        125
+      ]
+    },
+    {
+      "direction" : "BottomRightQuarter",
+      "keybind" : [
+        124,
+        125
+      ]
+    },
+    {
+      "direction" : "Center",
+      "keybind" : [
+        36
+      ]
+    },
+    {
+      "anchor" : 8,
+      "direction" : "Custom",
+      "height" : 70.178098516949149,
+      "keybind" : [
+        39
+      ],
+      "name" : "center min",
+      "positionMode" : 0,
+      "sizeMode" : 0,
+      "unit" : 1,
+      "width" : 79.828963629943502
+    },
+    {
+      "anchor" : 8,
+      "direction" : "Custom",
+      "height" : 100,
+      "keybind" : [
+        42
+      ],
+      "name" : "center v2\/3 ",
+      "positionMode" : 0,
+      "sizeMode" : 0,
+      "unit" : 1,
+      "width" : 66.19328213276836
+    },
+    {
+      "anchor" : 7,
+      "direction" : "Custom",
+      "height" : 982,
+      "keybind" : [
+        41
+      ],
+      "name" : "gtp sidecar full",
+      "positionMode" : 0,
+      "sizeMode" : 0,
+      "unit" : 0,
+      "width" : 1200
+    },
+    {
+      "anchor" : 1,
+      "direction" : "Custom",
+      "height" : 90.399011299435031,
+      "keybind" : [
+        46
+      ],
+      "name" : "monitor",
+      "positionMode" : 0,
+      "sizeMode" : 0,
+      "unit" : 1,
+      "width" : 100
+    },
+    {
+      "anchor" : 8,
+      "direction" : "Custom",
+      "height" : 80,
+      "keybind" : [
+        44
+      ],
+      "name" : "vscode",
+      "positionMode" : 0,
+      "sizeMode" : 0,
+      "unit" : 1,
+      "width" : 100
+    },
+    {
+      "cycle" : [
+        {
+          "direction" : "BottomHalf",
+          "keybind" : [
+
+          ]
+        },
+        {
+          "direction" : "BottomThird",
+          "keybind" : [
+
+          ]
+        },
+        {
+          "direction" : "BottomTwoThirds",
+          "keybind" : [
+
+          ]
+        }
+      ],
+      "direction" : "Cycle",
+      "keybind" : [
+        125
+      ],
+      "name" : "Bottom Cycle"
+    },
+    {
+      "cycle" : [
+        {
+          "direction" : "LeftHalf",
+          "keybind" : [
+
+          ]
+        },
+        {
+          "direction" : "LeftThird",
+          "keybind" : [
+
+          ]
+        },
+        {
+          "direction" : "LeftTwoThirds",
+          "keybind" : [
+
+          ]
+        }
+      ],
+      "direction" : "Cycle",
+      "keybind" : [
+        123
+      ],
+      "name" : "Left Cycle"
+    },
+    {
+      "cycle" : [
+        {
+          "direction" : "RightHalf",
+          "keybind" : [
+
+          ]
+        },
+        {
+          "direction" : "RightThird",
+          "keybind" : [
+
+          ]
+        },
+        {
+          "direction" : "RightTwoThirds",
+          "keybind" : [
+
+          ]
+        }
+      ],
+      "direction" : "Cycle",
+      "keybind" : [
+        124
+      ],
+      "name" : "Right Cycle"
+    },
+    {
+      "cycle" : [
+        {
+          "direction" : "TopHalf",
+          "keybind" : [
+
+          ]
+        },
+        {
+          "direction" : "TopThird",
+          "keybind" : [
+
+          ]
+        },
+        {
+          "direction" : "TopTwoThirds",
+          "keybind" : [
+
+          ]
+        }
+      ],
+      "direction" : "Cycle",
+      "keybind" : [
+        126
+      ],
+      "name" : "Top Cycle"
+    },
+    {
+      "direction" : "FocusLeft",
+      "keybind" : [
+        43
+      ]
+    },
+    {
+      "direction" : "FocusRight",
+      "keybind" : [
+        47
+      ]
+    },
+    {
+      "direction" : "GrowHorizontal",
+      "keybind" : [
+        30
+      ]
+    },
+    {
+      "direction" : "GrowVertical",
+      "keybind" : [
+        35
+      ]
+    },
+    {
+      "direction" : "Larger",
+      "keybind" : [
+        24
+      ]
+    },
+    {
+      "direction" : "Maximize",
+      "keybind" : [
+        49
+      ]
+    },
+    {
+      "direction" : "MoveDown",
+      "keybind" : [
+        40
+      ]
+    },
+    {
+      "direction" : "MoveLeft",
+      "keybind" : [
+        38
+      ]
+    },
+    {
+      "direction" : "MoveRight",
+      "keybind" : [
+        37
+      ]
+    },
+    {
+      "direction" : "MoveUp",
+      "keybind" : [
+        34
+      ]
+    },
+    {
+      "direction" : "NextScreen",
+      "keybind" : [
+        18
+      ]
+    },
+    {
+      "direction" : "ShrinkHorizontal",
+      "keybind" : [
+        33
+      ]
+    },
+    {
+      "direction" : "ShrinkVertical",
+      "keybind" : [
+        31
+      ]
+    },
+    {
+      "direction" : "Smaller",
+      "keybind" : [
+        27
+      ]
+    },
+    {
+      "direction" : "TopLeftQuarter",
+      "keybind" : [
+        123,
+        126
+      ]
+    },
+    {
+      "direction" : "TopRightQuarter",
+      "keybind" : [
+        124,
+        126
+      ]
+    }
+  ],
+  "triggerKey" : [
+    59
+  ],
+  "version" : "1.4.2"
+}
