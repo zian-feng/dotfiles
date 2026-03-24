@@ -1,0 +1,16 @@
+{
+  "version": "version1",
+  "enabled": true,
+  "activeScheme": {
+    "id": "nk-creams",
+    "caption": "NK Creams",
+    "sounds": {
+      "key": ".obsidian/plugins/click-clack/resources/nk-creams/key.wav",
+      "key2": ".obsidian/plugins/click-clack/resources/nk-creams/key2.wav",
+      "space": ".obsidian/plugins/click-clack/resources/nk-creams/space.wav",
+      "enter": ".obsidian/plugins/click-clack/resources/nk-creams/enter.wav",
+      "delete": ".obsidian/plugins/click-clack/resources/nk-creams/delete.wav"
+    }
+  },
+  "volumn": 100
+}

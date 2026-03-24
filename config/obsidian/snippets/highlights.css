@@ -1,0 +1,10 @@
+/* Change highlight color in editor */
+.cm-s-obsidian span.cm-highlight {
+    background-color: #865c67c3 !important; /*  custom highlight color */
+  }
+  
+  /* Change highlight color in preview/reading mode */
+.mark, mark {
+    background-color: #865c67c3 !important; /* Same highlight color */
+    /* color: black !important; */
+  }

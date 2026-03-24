@@ -1,0 +1,10 @@
+/* replace the default "bullet" with "chevron" icon, unset default bullet */
+    :is(.cm-fold-indicator:hover,*) ~ .cm-formatting.cm-formatting-list .list-bullet::after,
+    .list-bullet::after {
+        content:'*';
+        width: unset; height: unset;
+        background-color: unset;
+        box-shadow: none;
+    }
+
+

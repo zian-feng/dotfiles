@@ -1,0 +1,10 @@
+/* Applies to Reading Mode */
+.markdown-preview-view h5,
+.markdown-rendered h5 {
+  font-variant: small-caps !important;
+}
+
+/* Applies to Live Preview/Edit Mode */
+.cm-header-5 {
+  font-variant: small-caps !important;
+}

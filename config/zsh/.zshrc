@@ -38,6 +38,8 @@ alias nvim='nvim --listen $HOME/.cache/nvimsocket'
 
 alias cook='genact -m bruteforce' 
 
+alias ytdl='yt-dlp'
+
 # fast encrypt/decrypt alias
 b64() {
   echo -n "$*" | base64

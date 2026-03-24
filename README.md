@@ -7,10 +7,9 @@ custom dotfiles configurations for :
 - loop
 - nvim
 - shell utils
-
+- obsidian
 
 to be updated:
-- obsidian
-- keyboard sound assets
 - neofetch
-- btop
+- btop.conf
+- vimrc
