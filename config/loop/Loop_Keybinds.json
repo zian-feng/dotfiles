@@ -194,15 +194,15 @@
       "name" : "Top Cycle"
     },
     {
-      "direction" : "FocusLeft",
+      "direction" : "FocusDown",
       "keybind" : [
-        43
+        47
       ]
     },
     {
-      "direction" : "FocusRight",
+      "direction" : "FocusLeft",
       "keybind" : [
-        47
+        43
       ]
     },
     {
@@ -289,6 +289,12 @@
       "keybind" : [
         124,
         126
+      ]
+    },
+    {
+      "direction" : "TopScreen",
+      "keybind" : [
+        22
       ]
     }
   ],
