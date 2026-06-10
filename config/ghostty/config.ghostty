@@ -1,0 +1,20 @@
+
+theme = Catppuccin Frappe
+macos-titlebar-style = hidden
+background-opacity = 0.8
+
+font-family = JetBrainsMono Nerd Font
+font-feature = -liga
+font-codepoint-map = U+2717=JetBrainsMono Nerd Font
+font-size = 11
+
+window-padding-x = 12
+window-padding-y = 12
+
+window-inherit-working-directory = false
+tab-inherit-working-directory = false
+split-inherit-working-directory = false
+
+macos-icon = glass
+
+# alt ref https://ghostty.zerebos.com/settings/macos
